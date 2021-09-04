@@ -1,0 +1,22 @@
+.navbar{
+    opacity: 0.6;
+}
+
+header{
+    min-height: 100vh;
+    background-image: url(../imges/espresso\ coffee.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+.mx-auto {
+    margin-top: -70px;
+}
+
+.fa-user,.fa-envelope,.fa-pen{
+    background-color: rgb(167, 163, 163);
+}
+
+.last p{
+    font-size: 20px;
+}
